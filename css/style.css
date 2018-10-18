@@ -1,0 +1,27 @@
+body {
+    width: 100%;
+    background: aliceblue;
+
+}
+section {
+   width: 100%;
+    margin: 0 auto;
+
+}
+
+.form_position
+{
+margin-top: 20px;
+    width: 10%;
+    margin:  0 auto;
+}
+
+form {
+    width: 100%;
+}
+.labels{
+    padding: 5px;
+    margin-left: 50%;
+    color: brown;
+
+}
